@@ -115,7 +115,7 @@ function generarGrafico(superhero) {
                     { y: `${superhero.powerstats.intelligence}`, indexLabel: `intelligence (${superhero.powerstats.intelligence})` },
                     { y: `${superhero.powerstats.power}`, indexLabel: `power (${superhero.powerstats.power})` },
                     { y: `${superhero.powerstats.speed}`, indexLabel: `speed (${superhero.powerstats.speed})` },
-                    { y: `${superhero.powerstats.strength}`, indexLabel: `combat (${superhero.powerstats.strength})` },
+                    { y: `${superhero.powerstats.strength}`, indexLabel: `strength (${superhero.powerstats.strength})` },
                 ]
             }
         ]
